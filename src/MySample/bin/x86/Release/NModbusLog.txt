@@ -1,0 +1,6 @@
+2017-04-17 16:17:40,814 INFO  Modbus.IO.ModbusIpTransport Write - TX: 0, 1, 0, 0, 0, 15, 1, 16, 0, 0, 0, 4, 8, 0, 101, 0, 102, 0, 103, 1, 145
+2017-04-17 16:17:40,854 DEBUG Modbus.IO.ModbusIpTransport ReadRequestResponse - MBAP header: 1, 0, 2, 0, 1, 0
+2017-04-17 16:17:40,855 DEBUG Modbus.IO.ModbusIpTransport ReadRequestResponse - 256 bytes in PDU.
+2017-04-17 16:29:53,469 INFO  Modbus.IO.ModbusIpTransport Write - TX: 0, 1, 0, 0, 0, 15, 1, 16, 0, 0, 0, 4, 8, 0, 101, 0, 102, 0, 103, 1, 145
+2017-04-17 16:29:53,491 DEBUG Modbus.IO.ModbusIpTransport ReadRequestResponse - MBAP header: 1, 0, 2, 0, 1, 0
+2017-04-17 16:29:53,492 DEBUG Modbus.IO.ModbusIpTransport ReadRequestResponse - 256 bytes in PDU.

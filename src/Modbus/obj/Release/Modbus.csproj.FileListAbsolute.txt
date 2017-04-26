@@ -1,0 +1,11 @@
+E:\TGS\Modbus\NModbus_net-3.5_1.11.0.0\source\src\Modbus\bin\Release\Modbus.XML
+E:\TGS\Modbus\NModbus_net-3.5_1.11.0.0\source\src\Modbus\bin\Release\Modbus.dll
+E:\TGS\Modbus\NModbus_net-3.5_1.11.0.0\source\src\Modbus\bin\Release\Modbus.pdb
+E:\TGS\Modbus\NModbus_net-3.5_1.11.0.0\source\src\Modbus\bin\Release\log4net.dll
+E:\TGS\Modbus\NModbus_net-3.5_1.11.0.0\source\src\Modbus\bin\Release\Unme.Common.dll
+E:\TGS\Modbus\NModbus_net-3.5_1.11.0.0\source\src\Modbus\bin\Release\log4net.xml
+E:\TGS\Modbus\NModbus_net-3.5_1.11.0.0\source\src\Modbus\bin\Release\Unme.Common.xml
+E:\TGS\Modbus\NModbus_net-3.5_1.11.0.0\source\src\Modbus\obj\Release\Modbus.Resources.resources
+E:\TGS\Modbus\NModbus_net-3.5_1.11.0.0\source\src\Modbus\obj\Release\Modbus.csproj.GenerateResource.Cache
+E:\TGS\Modbus\NModbus_net-3.5_1.11.0.0\source\src\Modbus\obj\Release\Modbus.dll
+E:\TGS\Modbus\NModbus_net-3.5_1.11.0.0\source\src\Modbus\obj\Release\Modbus.pdb
